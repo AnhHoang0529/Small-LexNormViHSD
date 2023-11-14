@@ -6,4 +6,4 @@ Label: input (non-standard sentence), output(standard sentence)
 
 To understand more about the dataset, please read this paper: 
 
-Please cite the following paper if you use this dataset:
+Please cite the following paper if you use this dataset: [Automatic Textual Normalization for Hate Speech Detection](https://arxiv.org/abs/2311.06851)
